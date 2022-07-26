@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Samantha Kelly 😊😊
+# OI! Tudo bem? Fique à vontade! Aceita um cafezim? ☕😊
+### Por aqui o trabalho é de um passo de cada vez.
 
  <div>
    <a href="https://github.com/SamanthaKelly01">
@@ -14,6 +15,7 @@
  
  <br>
  
+ ## Meus contatos? Aqui ó: 
 <div>  
   <a href = "mailto:samanthak2002@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/samantha-s-4816521a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
