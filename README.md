@@ -1,5 +1,7 @@
 # OI! Tudo bem? Fique à vontade! Aceita um cafezim? ☕😊
-### Por aqui o trabalho é de um passo de cada vez.
+<p> Pode me chamar de Sam! Eu sou aluna de Engenharia de Sistemas na UFMG e estudante de programação.<p/> <img src="https://giphy.com/stickers/kawaii-monday-segunda-feira-LUokZJ21LM39f6d0Md" width="50" />
+![Bem_Vindo_-removebg-preview](https://github.com/SamanthaKelly01/SamanthaKelly01/assets/108768145/9214033d-71e5-4584-91e0-f9c2631ba661)
+
 
  <div>
    <a href="https://github.com/SamanthaKelly01">
