@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/e3/39/d9/e339d9bcc0792949895b718508dd0014.jpg" height="150em" width="100%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8645D8&height=120&section=header"/>
 
 <h1 align="center">Oi! Tudo bem? Fique à vontade! Aceita um cafezim? ☕😊</h1>
 <h3 align="center">✨Pode me chamar de Sam! Eu sou aluna de Engenharia de Sistemas na UFMG e estudante de programação.✨<h3/> 
@@ -36,5 +36,5 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamanthaKelly01&bg_color=0d1117&color=8645D8&line=8645D8&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8645D8&height=120&section=footer"/>
 
