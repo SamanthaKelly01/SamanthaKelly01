@@ -16,21 +16,22 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> 
-  <img align="center" alt="Js" height="50" width="90" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-  <img align="center" alt="Js" height="50" width="90" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-</div> 
+  <img align="center" alt="React" height="50" width="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+  <img align="center" alt="Nodejs" height="50" width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img align="center" alt="Figma" height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Wordpress" height="50" width="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+  <img align="center" alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Github" height="50" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> 
+  <img align="center" alt="Mongodb" height="50" width="90" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img align="center" alt="MySql" height="50" width="90" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+ </div>
  <br>
  
  <h3 align="center">Entre em contato comigo!</h3> 
 <div align="center">  
   <a href = "mailto:samanthak2002@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samantha-s-4816521a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%250077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a><br>
+  <a href="https://www.linkedin.com/in/samanthaksena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%250077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a><br>
 </div><br><br>
 
  
